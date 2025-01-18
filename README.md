@@ -119,10 +119,13 @@ The Resource Group should look like this after you configure the Virtual Machine
 
 ![image](https://github.com/user-attachments/assets/2151491e-a645-4db1-bc4f-dbb2f2e4df4a)
 
+</p>
 
+<h2>Conclusion</h2>
 
+  Your visible IP address changes to one the VPN server provides. This makes it appear as if you're browsing from the VPN server's location, not your actual location. This helps anonymize your internet activity and bypass geographical restrictions. This results in language changes, security and privacy, and access to websites you otherwise couldn't access in your orginal country.
+     
 
-   
     
     
 
