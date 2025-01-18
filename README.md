@@ -1,7 +1,9 @@
 <p align="center">
+![image](https://github.com/user-attachments/assets/644be26e-d3b3-42d3-9390-fa37cef62ee6)
+
 </p>
 
-<h1>Testing ProtonVPN|  Hotel Topology<h1>
+<h1>Testing ProtonVPN<h1>
   
 This project demonstrates the steps to create a virtual machine (VM) in Microsoft Azure, test geographic IP location changes, and evaluate VPN functionality using ProtonVPN. The purpose is to showcase skills in cloud computing, VPN usage, and networking fundamentals. All steps were documented to provide a clear understanding of the process.
 
