@@ -93,27 +93,27 @@ The Resource Group should look like this after you configure the Virtual Machine
 
     <h2>Within VM West US 2 (Non-VPN Connection):<h2>
 
-    ![image](https://github.com/user-attachments/assets/d1f19077-3212-453b-9deb-9304ec0a5167)
+  ![image](https://github.com/user-attachments/assets/d1f19077-3212-453b-9deb-9304ec0a5167)
 
     1st VPN Connection Within VM West US 2 (VPN Connection):
 
-    ![image](https://github.com/user-attachments/assets/a2264c93-d308-4db9-9609-e4dbefe587e7)
+ ![image](https://github.com/user-attachments/assets/a2264c93-d308-4db9-9609-e4dbefe587e7)
 
 
-    ![image](https://github.com/user-attachments/assets/a7730a8e-d675-48c3-aa16-89d3e639bef4)
+ ![image](https://github.com/user-attachments/assets/a7730a8e-d675-48c3-aa16-89d3e639bef4)
 
     <h2>2nd VPN Connection Within VM West US 2 (VPN Connection):<h2>
 
-    ![image](https://github.com/user-attachments/assets/6863a67f-1b98-41bd-a6c8-0335dc8a9b05)
+ ![image](https://github.com/user-attachments/assets/6863a67f-1b98-41bd-a6c8-0335dc8a9b05)
 
 
-    ![image](https://github.com/user-attachments/assets/4f6c96fc-522f-4532-b9e8-7615cb9e48c8)
+![image](https://github.com/user-attachments/assets/4f6c96fc-522f-4532-b9e8-7615cb9e48c8)
 
     <h2>3rd VPN Connection Within VM West US 2 (VPN Connection):<h2>
 
-    ![image](https://github.com/user-attachments/assets/084dee06-8a13-473c-8e46-ea1b5f8556cd)
+ ![image](https://github.com/user-attachments/assets/084dee06-8a13-473c-8e46-ea1b5f8556cd)
 
-    ![image](https://github.com/user-attachments/assets/2151491e-a645-4db1-bc4f-dbb2f2e4df4a)
+![image](https://github.com/user-attachments/assets/2151491e-a645-4db1-bc4f-dbb2f2e4df4a)
 
 
 
