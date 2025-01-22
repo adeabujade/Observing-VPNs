@@ -95,7 +95,7 @@ The Resource Group should look like this after you configure the Virtual Machine
     
     Country: United States
 
-    <h2>Within VM West US 2 (Non-VPN Connection):<h2>
+  <h2>Within VM West US 2 (Non-VPN Connection):<h2>
 
   ![image](https://github.com/user-attachments/assets/d1f19077-3212-453b-9deb-9304ec0a5167)
 
